@@ -106,7 +106,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [OsCortes](https://github.com/oscorteslop18) 😊
 # Para generar este archivo https://pandao.github.io/editor.md/en.html
 
 
