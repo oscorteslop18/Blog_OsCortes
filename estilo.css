@@ -52,7 +52,8 @@ body
 }
 
 #footer {
-    color:#333;
+    color:#33A;
+    background: white;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
