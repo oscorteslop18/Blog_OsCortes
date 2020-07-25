@@ -89,8 +89,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Os Cortes** - *Trabajo Inicial* - [OsCortes](https://github.com/oscorteslop18)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
- esto es un cmabio en stash 
-
+* **esto es un cambio en stash incluye ejemplo en VisualCode
  
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
