@@ -51,13 +51,12 @@ body
     padding: 1em;
 }
 
-#footer {
-    color:#33A;
-    background: white;
+#footer
+{
+    background: #37488b;
+    color: white;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 1;
-
+    padding: 0.5em;
+    text-transform: capitalize;
 }
+
